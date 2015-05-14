@@ -1,24 +1,24 @@
 {
-    "name": "ineter",
-    "version": "0.0.10",
-    "description": "Web scraping INETER map of earthquakes",
-    "keywords": [
-        "nicaragua",
-        "sismo",
-        "ineter"
-    ],
-    "dependencies": {
-        "request": "^2.34.0"
-    },
-    "directories": {
-        "lib": "./lib/ineter"
-    },
-    "bugs": {
-        "url": "https://github.com/paulomcnally/ineter.js/issues/new",
-        "email": "paulomcnally@gmail.com"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/paulomcnally/ineter.js.git"
-    }
+  "name": "ineter",
+  "version": "0.0.11",
+  "description": "Web scraping INETER map of earthquakes",
+  "keywords": [
+    "nicaragua",
+    "sismo",
+    "ineter"
+  ],
+  "dependencies": {
+    "request": "^2.55.0"
+  },
+  "directories": {
+    "lib": "./lib/ineter"
+  },
+  "bugs": {
+    "url": "https://github.com/paulomcnally/ineter.js/issues/new",
+    "email": "paulomcnally@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/paulomcnally/ineter.js.git"
+  }
 }
